@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Double degree at Politecnico di Torino (PoliTo) and University of Illinois at Chicago (UIC) in Computer Engineering and Computer Science. Specialization in Machine Learning.
+Alta Scuola Politecnica (ASP) graduate.
+Software Engineer at BendingSpoons.
+
 <hr>
 
 ## 💼 Technical Skills
@@ -42,12 +46,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white)
 
+### AIs
+
+All of them
+
 <hr>
 
-#### Some stats
-
-[![Some Stats](https://github-readme-stats.vercel.app/api?username=marcporro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcporro&layout=compact&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
