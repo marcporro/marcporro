@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Double degree at Politecnico di Torino (PoliTo) and University of Illinois at Chicago (UIC) in Computer Engineering and Computer Science. Specialization in Machine Learning.
-Alta Scuola Politecnica (ASP) graduate.
+Double degree at Politecnico di Torino (PoliTo) 🇮🇹 and University of Illinois at Chicago (UIC) 🇺🇸 in Computer Engineering and Computer Science. Specialization in Machine Learning. </br>
+Alta Scuola Politecnica (ASP) graduate. </br>
 Software Engineer at BendingSpoons.
 
 <hr>
