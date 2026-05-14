@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 #### Some stats
 
-[![Some Stats](https://github-readme-stats.vercel.app/api?username=Hilicot&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Some Stats](https://github-readme-stats.vercel.app/api?username=marcporro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilicot&layout=compact&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcporro&layout=compact&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
